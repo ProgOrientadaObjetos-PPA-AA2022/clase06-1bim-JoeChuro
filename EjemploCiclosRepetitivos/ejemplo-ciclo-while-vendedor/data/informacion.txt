@@ -1,7 +1,14 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
-Número de autos: 1
-Pago mensual: 250,00
+Nombre: Juana
+Edad: 26
+Salario mínimo: 222,00
+Número de autos: 2
+Pago mensual: 522,00
+
+Datos de Vendedor
+Nombre: Rene
+Edad: 800
+Salario mínimo: 800,00
+Número de autos: 6
+Pago mensual: 1700,00
 
